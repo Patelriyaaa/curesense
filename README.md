@@ -30,6 +30,3 @@
 | 📦 Project Structure | Modular with separate API handlers |
 
 ---
-
-## 📁 Folder Structure
-
